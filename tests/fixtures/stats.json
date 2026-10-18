@@ -1,0 +1,4 @@
+{"items": [{"tenant": "tenant-a", "logicalBytes": 2199023255552, "storedBytes": 549755813888},
+           {"tenant": "tenant-b", "logicalBytes": 1099511627776, "storedBytes": 549755813888},
+           {"tenant": "=tenant-a", "logicalBytes": 1099511627776, "storedBytes": 1099511627776}],
+ "nextCursor": null}

@@ -1,0 +1,11 @@
+cohesity-python-automation
+Copyright 2026 Greysave contributors
+
+Licensed under the Apache License, Version 2.0.
+
+This is an UNOFFICIAL, independent portfolio project. It is not affiliated
+with, endorsed by, or sponsored by Cohesity, Inc. "Cohesity" is a trademark
+of its respective owner and is used here only to describe the general problem
+domain (data-protection automation). The API used in this repository is a
+synthetic, illustrative contract; it is not the Cohesity API and this
+project contains no Cohesity SDK code.
